@@ -41,3 +41,21 @@ We will also need to add the __g__ flag for global search.
 We finally have “/[\W_]/g”
 ```
 /[\W_]/g was used for pure demonstrative purpose to show how RegExp works. /[^A-Za-z0–9]/g is the easiest RegExp to choose.
+
+## Resources
+
+[Regular Expressions — MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+[toLowerCase() method — MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+
+[replace() — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+
+[split() method — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+
+[reverse() method — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+
+[join() method — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+
+[String.length — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+
+[for Loop — MDN](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for)
