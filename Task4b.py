@@ -1,6 +1,6 @@
 """
     practice 
-    check if a string is a palindrome
+    write a Python Function that checks if a stringafied word is a palindrome
     """
 
 
@@ -15,3 +15,7 @@ print(checkPalindrome('mom'))
 print(checkPalindrome('bob'))
 print(checkPalindrome('boob'))
 print(checkPalindrome('rick'))
+print(checkPalindrome("Love Lambda"))
+print(checkPalindrome("saras"))
+print(checkPalindrome('eye'))
+print(checkPalindrome('me'))
